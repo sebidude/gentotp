@@ -20,4 +20,7 @@ Run
 export TOTP_SECRET=<your-totp-secret>
 gentotp
 ```
-
+or
+```
+gentotp <your-totp-secret>
+```
